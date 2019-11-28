@@ -2,7 +2,8 @@ name: side_menu_scaffold
 description: >
   A new Flutter plugin `Side Menu Scaffold` is a Flutter library for implement side menu like iPhone default side menu.
 version: 1.0.0
-homepage:
+author: TejaDroid <tejas.d.chauhan@gmail.com>
+homepage: https://github.com/TejaDroid/side_menu_scaffold
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
