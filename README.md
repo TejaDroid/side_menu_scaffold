@@ -1,10 +1,10 @@
-# iPhone Side Menu in Flutter
+# Side Menu Like Iphone in Flutter
 
-A new Flutter plugin `Side Menu` is a Flutter library for implement side menu like iPhone default side menu.
+A new Flutter plugin Side Menu Scaffold is a Flutter library for implement side menu like iPhone default side menu.
 
-## Preview
+## Preview Screen
 
-<img src="/screenshots/drawer_menu.png" width="320" height="480"> <img src="/screenshots/home_page.png" width="320" height="480">
+<img src="/screenshots/home_page.png" width="320" height="480">   <img src="/screenshots/drawer_menu.png" width="320" height="480">
 
 ## Getting Started
 
