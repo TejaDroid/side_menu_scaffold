@@ -1,4 +1,4 @@
-# Side Menu Like Iphone in Flutter
+# Side Menu Like iPhone in Flutter
 
 Flutter plugin allow you to implement side menu like iPhone default side menu.
 
